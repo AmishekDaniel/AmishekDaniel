@@ -121,6 +121,14 @@ const amishek = {
 
 ---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmishekDaniel&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <table width="100%">
