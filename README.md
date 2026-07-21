@@ -104,10 +104,8 @@ const amishek = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmishekDaniel&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmishekDaniel&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmishekDaniel&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmishekDaniel&theme=github_dark" />
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=AmishekDaniel&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
