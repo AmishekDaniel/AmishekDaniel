@@ -104,19 +104,19 @@ const amishek = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmishekDaniel&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmishekDaniel&theme=github_dark" />
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmishekDaniel&theme=github_dark" />
+</td>
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmishekDaniel&theme=github_dark" />
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=AmishekDaniel&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmishekDaniel&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=AmishekDaniel&theme=dark" />
 </p>
 
 ---
